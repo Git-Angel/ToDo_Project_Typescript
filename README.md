@@ -14,6 +14,7 @@ A fully functional Todo web application built with **React Typescript**, **React
 - **Create**, **Edit**, and **Delete** todos with modal forms
 - **Error Boundary** for error handling
 - **Custom 404 page** for undefined routes
+- **Logout** This automatically logs one out of the system on click of it
 - Fully **responsive** design for desktop, tablet, and mobile.
 
 
@@ -99,12 +100,13 @@ Base URL: `https://jsonplaceholder.typicode.com`
 
 ## 📸 Screenshots of key features
 
-| Feature        | Screenshot/GIF                                                                     |
+| Feature        | Screenshots                                                                     |
 | -------------- | -----------------------------------------------------------------------------------|
 |Authentication  | Login details: Username = admin and Password = 1234
 | Todo List View | [Todo list view](./assets/ToDoList.jpg)<br>View of todos with filters              |
 | Add Todo Modal | [Add ToDo](./assets/AddToDo.jpg)<br>Modal for adding a new todo item.              |
 | 404 Page       | [404 Page](./assets/404Page.jpg)<br>Custom 404 error page with navigation back home|
+| Logout Page    | Automatically logs one out of the system on click of it.                           |
 
 ---
 
