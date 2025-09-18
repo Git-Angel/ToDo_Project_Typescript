@@ -1,10 +1,11 @@
-# 📝 React Todo App
+# 📝 React Typescript Todo App
 
-A fully functional Todo web application built with **React**, **React Router v7**, and **Tailwind CSS**, using **JSONPlaceholder** for API integrations. The creating, editing and deleting modals of this application are fully functional at the UI level but those actions are not carried out at the back end due to the fact that we are dealing with a dummy database, hence those actions are for demonstration purposes.
+A fully functional Todo web application built with **React Typescript**, **React Router v7**, and **Tailwind CSS**, using **JSONPlaceholder** for API integrations. The creating, editing and deleting modals of this application are fully functional at the UI level but those actions are not carried out at the back end due to the fact that we are dealing with a dummy database, hence those actions are for demonstration purposes.
 
 
 ## 📌 Features
 
+- **Authentication** This allows you log into the app
 - **Skeleton 💀** as the first component to load the page contents
 - Fetch todos from API with **pagination** (10 items per page)
 - **Search** todos by title
@@ -15,6 +16,11 @@ A fully functional Todo web application built with **React**, **React Router v7*
 - **Custom 404 page** for undefined routes
 - Fully **responsive** design for desktop, tablet, and mobile.
 
+
+## 🚀 Login Details
+Want to try out the page?
+User authentication (login)
+**Username** = admin and **Password** = 1234
 ---
 
 ## 🚀 Installation and Setup
@@ -22,7 +28,7 @@ A fully functional Todo web application built with **React**, **React Router v7*
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/Git-Angel/SecondTermProject.git
+git clone https://github.com/Git-Angel/ToDo_Project_Typescript
 cd SecondProject
 
 2️⃣ Install Dependencies:
@@ -50,7 +56,7 @@ Click Deploy Site.
 
 
 ✅ Deploy to Vercel:
-Sign up at https://vercel.com/.
+Sign up at https://vercel.com/ eg https://to-do-project-typescript.vercel.app/
 
 Connect your GitHub repository.
 
@@ -70,7 +76,7 @@ Click Deploy.
 
 ## 🛠️ Tech Stack (Technology and purpose)
 
-React - UI Framework
+React Typescript - UI Framework
 React Router v7 - Routing / Nested routes
 Tailwind CSS - Styling and responsiveness
 Lucide React - Icon library
@@ -95,6 +101,7 @@ Base URL: `https://jsonplaceholder.typicode.com`
 
 | Feature        | Screenshot/GIF                                                                     |
 | -------------- | -----------------------------------------------------------------------------------|
+|Authentication  | Login details: Username = admin and Password = 1234
 | Todo List View | [Todo list view](./assets/ToDoList.jpg)<br>View of todos with filters              |
 | Add Todo Modal | [Add ToDo](./assets/AddToDo.jpg)<br>Modal for adding a new todo item.              |
 | 404 Page       | [404 Page](./assets/404Page.jpg)<br>Custom 404 error page with navigation back home|
@@ -113,11 +120,11 @@ Error boundary catches frontend errors but cannot detect failed API calls yet.
 
 Connect to a real backend API (Node/Express, Firebase, etc.)
 
-Add user authentication (login/signup)
-
 Implement persistent local storage or IndexedDB fallback
 
 Add unit tests with Jest/React Testing Library
+
+Build application own database
 
 ---
 
