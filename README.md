@@ -22,14 +22,13 @@ A fully functional Todo web application built with **React Typescript**, **React
 Want to try out the page?
 User authentication (login)
 **Username** = admin and **Password** = 1234
----
 
 ## 🚀 Installation and Setup
 
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/Git-Angel/ToDo_Project_Typescript
+git clone [Git-hub](https://github.com/Git-Angel/ToDo_Project_Typescript)
 cd SecondProject
 
 2️⃣ Install Dependencies:
@@ -47,7 +46,7 @@ cd SecondProject
 You can deploy your build folder to any static site hosting platform. For example:
 
 ✅ Deploy to Netlify:
-Sign up at https://www.netlify.com/.
+Sign up at [Netlify](https://www.netlify.com/)
 
 Connect your GitHub repository or drag-and-drop the dist/ or build/ folder.
 
@@ -66,10 +65,10 @@ For Vite apps, set Framework Preset to Vite, and build settings will auto-config
 
 Click Deploy.
 
----
 
 ## ✍ Available Scripts (Script and purpose)
 
+---
 `npm run dev` - Start development server
 `npm run build` - Build optimized production
 `npm run preview` - Preview production build locally
@@ -84,10 +83,9 @@ Tailwind CSS - Styling and responsiveness
 Lucide React - Icon library
 JSONPlaceholder - API for todos
 
----
 
 ## 🌐 API Documentation (Method, endpoint and description)
-Base URL: `https://jsonplaceholder.typicode.com`
+Base URL: [Baseurl](`https://jsonplaceholder.typicode.com`)
 
 | Method | Endpoint     | Description            |
 | ------ | ------------ | ---------------------- |
@@ -97,19 +95,19 @@ Base URL: `https://jsonplaceholder.typicode.com`
 | PUT    | `/todos/:id` | Update existing todo   |
 | DELETE | `/todos/:id` | Delete todo            |
 
----
+
 
 ## 📸 Screenshots of key features
 
 | Feature        | Screenshots                                                                              |
 | -------------- | -----------------------------------------------------------------------------------------|
 |Authentication  | Login details: Username = admin and Password = 1234                                      |
-| Todo List View | ![Todo list view](src/assets/ToDoList.jpg) <br>View of todos with filters              |
+| Todo List View | [Todo_list_view](src/assets/ToDoList.jpg) <br>View of todos with filters              |
 | Add Todo Modal | ![Add ToDo](src/assets/AddToDo.jpg) <br>Modal for adding a new todo item.              |
 | 404 Page       | ![404 Page](src/assets/404Page.jpg) <br>Custom 404 error page with navigation back home|
 | Logout Page    | Automatically logs one out of the system on click of it.                                 |
 
----
+
 
 ## ⚠ Limitations
 
@@ -117,7 +115,7 @@ The Add/Edit/Delete are not persisted because JSONPlaceholder is a mock API.
 
 Error boundary catches frontend errors but cannot detect failed API calls yet.
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -128,8 +126,6 @@ Implement persistent local storage or IndexedDB fallback
 Add unit tests with Jest/React Testing Library
 
 Build application own database
-
----
 
 
 ## React + Vite (Advise)
