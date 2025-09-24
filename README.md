@@ -58,7 +58,7 @@ Click Deploy Site.
 
 ✅ Deploy to Vercel:
 Sign up at https://vercel.com/ example of the outcome
- https://to-do-project-typesc-git-29a710-angelina-chima-onuohas-projects.vercel.app/
+ [Vercel](https://to-do-project-typesc-git-29a710-angelina-chima-onuohas-projects.vercel.app/)
 
 Connect your GitHub repository.
 
@@ -104,9 +104,9 @@ Base URL: `https://jsonplaceholder.typicode.com`
 | Feature        | Screenshots                                                                              |
 | -------------- | -----------------------------------------------------------------------------------------|
 |Authentication  | Login details: Username = admin and Password = 1234                                      |
-| Todo List View | ![Todo list view](./src/assets/ToDoList.jpg) <br>View of todos with filters              |
-| Add Todo Modal | ![Add ToDo](./src/assets/AddToDo.jpg) <br>Modal for adding a new todo item.              |
-| 404 Page       | ![404 Page](./src/assets/404Page.jpg) <br>Custom 404 error page with navigation back home|
+| Todo List View | ![Todo list view](src/assets/ToDoList.jpg) <br>View of todos with filters              |
+| Add Todo Modal | ![Add ToDo](src/assets/AddToDo.jpg) <br>Modal for adding a new todo item.              |
+| 404 Page       | ![404 Page](src/assets/404Page.jpg) <br>Custom 404 error page with navigation back home|
 | Logout Page    | Automatically logs one out of the system on click of it.                                 |
 
 ---
