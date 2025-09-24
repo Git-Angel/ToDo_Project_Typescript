@@ -101,11 +101,11 @@ Base URL: [Baseurl](`https://jsonplaceholder.typicode.com`)
 
 | Feature        | Screenshots                                                                                 |
 | -------------- | -----------------------------------------------------------------------------------------   |
-|Authentication  | Login details: Username = admin and Password = 1234                                         |
-| Todo List View | [Todo_list_view](src/assets/ToDoList.jpg) <br>View of todos with filters                    |
-| Add Todo Modal | [Add_ToDo](src/assets/AddToDo.jpg) <br>Modal for adding a new todo item.                    |
-| 404 Page       | [404_Page](src/assets/Error404Page.avif) <br>Custom 404 error page with navigation back home|
-| Logout Page    | Automatically logs one out of the system on click of it.                                    |
+|Authentication  | Login details: Username = **admin** and Password = **1234**                                 |
+| Todo List View | [Todo list view](src/assets/ToDoList.jpg) <br>View of todos with filters                    |
+| Add Todo Modal | [Add ToDo](src/assets/AddToDo.jpg) <br>Modal for adding a new todo item.                    |
+| 404 Page       | [404 Page](src/assets/Error404Page.avif) <br>Custom 404 error page with navigation back home|
+| Logout Page    | Automatically logs one out of the system on click of the **Sign Out Button**                                  |
 
 
 
@@ -114,7 +114,6 @@ Base URL: [Baseurl](`https://jsonplaceholder.typicode.com`)
 The Add/Edit/Delete are not persisted because JSONPlaceholder is a mock API.
 
 Error boundary catches frontend errors but cannot detect failed API calls yet.
-
 
 
 ## 🔮 Future Improvements
