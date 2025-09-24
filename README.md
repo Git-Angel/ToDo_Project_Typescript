@@ -57,7 +57,7 @@ Click Deploy Site.
 
 ✅ Deploy to Vercel:
 Sign up at https://vercel.com/ example of the outcome
- [Vercel](https://to-do-project-typesc-git-29a710-angelina-chima-onuohas-projects.vercel.app/)
+ [MY Vercel Link](https://to-do-project-typesc-git-29a710-angelina-chima-onuohas-projects.vercel.app/)
 
 Connect your GitHub repository.
 
@@ -99,14 +99,14 @@ Base URL: [Baseurl](`https://jsonplaceholder.typicode.com`)
 
 ## 📸 Screenshots of key features
 
-| Feature        | Screenshots                                                                                   |
-| -------------- | ----------------------------------------------------------------------------------------------|
-|Authentication  | Login details: Username = **admin** and Password = **1234**                                   |
-|Authentication  | ![Todo list view](src/assets/Authentication.png) <br> Authenticate to access the Todo App     |
-| Todo List View | ![Todo list view](src/assets/ToDoList.jpg) <br> View of todos with filters                    |
-| Add Todo Modal | ![Add ToDo](src/assets/AddToDo.jpg) <br> Modal for adding a new todo item.                    |
-| 404 Page       | ![404 Page](src/assets/Error404Page.avif) <br> Custom 404 error page with navigation back home|
-| Logout Page    | Automatically logs one out of the system on click of the **Sign Out Button**                  |
+| Feature        | Screenshots                                                                                          |
+| -------------- | -----------------------------------------------------------------------------------------------------|
+|Authentication  | Login details: Username = **admin** and Password = **1234**                                          |
+|Authentication  | ![Todo list view](src/assets/Authentication.png) <br> **Authenticate to access the Todo App**        |
+| Todo List View | ![Todo list view](src/assets/ToDoList.jpg) <br> **View of todos with filters**                       |
+| Add Todo Modal | ![Add ToDo](src/assets/AddToDo.jpg) <br> **Modal for adding a new todo item**                        |
+| 404 Page       | ![404 Page](src/assets/Error404Page.avif) <br> **Custom 404 error page with navigation back home**   |
+|SignOut Button  | ![Sign Out](src/assets/SignOut.png) <br> **Automatically logs one out of the system**                |
 
 
 
