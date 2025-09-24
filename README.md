@@ -102,9 +102,9 @@ Base URL: [Baseurl](`https://jsonplaceholder.typicode.com`)
 | Feature        | Screenshots                                                                                 |
 | -------------- | -----------------------------------------------------------------------------------------   |
 |Authentication  | Login details: Username = **admin** and Password = **1234**                                 |
-| Todo List View | [Todo list view](src/assets/ToDoList.jpg) <br>View of todos with filters                    |
-| Add Todo Modal | [Add ToDo](src/assets/AddToDo.jpg) <br>Modal for adding a new todo item.                    |
-| 404 Page       | [404 Page](src/assets/Error404Page.avif) <br>Custom 404 error page with navigation back home|
+| Todo List View | ![Todo list view](src/assets/ToDoList.jpg) <br>View of todos with filters                    |
+| Add Todo Modal | ![Add ToDo](src/assets/AddToDo.jpg) <br>Modal for adding a new todo item.                    |
+| 404 Page       | ![404 Page](src/assets/Error404Page.avif) <br>Custom 404 error page with navigation back home|
 | Logout Page    | Automatically logs one out of the system on click of the **Sign Out Button**                                  |
 
 
