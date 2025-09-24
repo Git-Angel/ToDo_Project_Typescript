@@ -27,7 +27,7 @@ User authentication (login)
 
 1️⃣ Clone the repository:
 
-```bash
+
 git clone [Git-hub](https://github.com/Git-Angel/ToDo_Project_Typescript)
 cd SecondProject
 
@@ -140,5 +140,5 @@ uses [SWC](https://swc.rs/) for Fast Refresh
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled.
-Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts)
-for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your future projects.]
+Check out the [TStemplate](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts)
+for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your future projects.
