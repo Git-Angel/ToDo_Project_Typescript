@@ -1,6 +1,6 @@
 import React from "react";
 
-function skeleton() {
+export default function Skeleton() {
   return (
     <div className="m-0-auto mx-auto w-full max-w-sm">
       <div className="mx-auto w-full max-w-sm rounded-md border border-emerald-300 p-4">
@@ -21,8 +21,6 @@ function skeleton() {
           </div>
         </div>
       </div>
-    </div>
-  );
+</div>
+);
 }
-
-export default skeleton;

@@ -57,7 +57,8 @@ Click Deploy Site.
 
 
 ✅ Deploy to Vercel:
-Sign up at https://vercel.com/ eg https://to-do-project-typescript.vercel.app/
+Sign up at https://vercel.com/ example of the outcome
+ https://to-do-project-typesc-git-29a710-angelina-chima-onuohas-projects.vercel.app/
 
 Connect your GitHub repository.
 
